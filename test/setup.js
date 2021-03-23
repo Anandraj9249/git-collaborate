@@ -1,5 +1,5 @@
 import chai from 'chai'
-import sinonChai from 'sinon-chai'
+
 
 global.logToConsoleDisabled = true
 global.describe = chai.describe
